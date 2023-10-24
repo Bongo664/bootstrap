@@ -1,0 +1,75 @@
+body{
+    background-image: url(hero-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 963px;
+}
+.logo{
+    height: 80px;
+}
+hr{
+    color: white;
+}
+.primary-btn {
+    background: #f42f2c;
+    line-height: 42px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: none;
+    color: #fff;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    position: relative;
+    text-transform: uppercase;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    position: relative;
+}
+.banner-content p {
+    max-width: 515px;
+    margin-bottom: 30px;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.home-about-area{
+    margin-top: 400px;
+}
+.primary-btn{
+    text-decoration: none;
+}
+.menu-area{
+    margin-top: 200px;
+}
+.list-group-item{
+    font-size: 12px;
+}
+.list-group-item:first-child{
+    background-color: red;
+    color: white;
+}
+.reservation-area {
+    background: url(reservation-bg.jpg) no-repeat center/cover;
+}
+.section-gap {
+    padding: 120px 0;
+}
+.relative {
+    position: relative;
+    list-style: none;
+}
+article, dialog, figcaption, figure, footer, header, main, nav, section {
+    display: block;
+}
