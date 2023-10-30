@@ -73,3 +73,16 @@ p {
 article, dialog, figcaption, figure, footer, header, main, nav, section {
     display: block;
 }
+.jedz{
+    margin-top:50px;
+}
+.gorny{
+    background-color: #f42f2c;
+    color: #fff;
+}
+.dolny{
+    background-color: rgb(68, 68, 68);
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom:20px;
+}
